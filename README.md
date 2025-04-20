@@ -3,11 +3,11 @@ This is PING PONG, written using the pygame library :).
 ## Usage 🕹️
 To change the theme you need to write the shortened path to the file "config.py". For example, if the full path is:
 ```
-"/home/user/ping_pong_pygame/theme/catppuccin/mocha/green/config.py"
+/home/user/ping_pong_pygame/theme/catppuccin/mocha/green/config.py
 ```
 then you need to write: 
 ```
-"catppuccin.mocha.green".
+catppuccin.mocha.green
 ```
 ### Screenshots 🖵
 ![20250420_01h13m42s_grim](https://github.com/user-attachments/assets/58ee8e27-95cb-4854-9950-8edfffa822f1)
