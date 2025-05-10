@@ -1,5 +1,8 @@
 # ping_pong_pygame 👾
 This is PING PONG, written using the pygame library :).
+```
+pip install pygame
+```
 ## Usage 🕹️
 To change the theme you need to write the shortened path to the file "config.py". For example, if the full path is:
 ```
