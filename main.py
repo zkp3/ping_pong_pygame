@@ -57,11 +57,11 @@ textsConf={
     },
     'help':{
         'fontPath':themePath+themeConf.pathes['font'],
-        'pos':[0,500],
-        'size':30,
+        'pos':[400,500],
+        'size':23,
         'color':themeConf.fontColor,
         'text':'To set up, open the conf.py file in the game directory',
-        'center':0
+        'center':1
     },
     'score':{
         'fontPath':themePath+themeConf.pathes['font'],
