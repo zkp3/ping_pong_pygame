@@ -8,4 +8,4 @@ pathes={
     'nSuccessSfx':'/nSuccess.mp3',
     'font':'/JetBrainsMonoBold.ttf'
 }
-fontColor=(255, 255, 255)
+fontColor=(0,0,0)
