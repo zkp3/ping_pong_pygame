@@ -15,7 +15,7 @@ displayInfo=pygame.display.Info()
 scrnSize=[800,600]
 origSurface=pygame.Surface((800,600))
 if conf.fullscreen:scrnSize=[displayInfo.current_w,displayInfo.current_h]
-screen=pygame.display.set_mode((scrnSize),pygame.NOFRAME)
+screen=pygame.display.set_mode((scrnSize),pygame.FULLSCREEN)
 
 music=pygame.mixer.music.load(themePath+themeConf.pathes['music'])
 pygame.mixer_music.play(-1)
